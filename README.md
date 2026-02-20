@@ -1,10 +1,10 @@
-# 💰 Finance Manager
+# Finance Manager
 
 Sistema web de **gerenciamento financeiro pessoal**, desenvolvido em **Java (Servlet + DAO + JDBC)**, com integração ao **PostgreSQL**.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Java 17+**
 - **Apache Tomcat 10.1**
@@ -15,7 +15,7 @@ Sistema web de **gerenciamento financeiro pessoal**, desenvolvido em **Java (Ser
 
 ---
 
-## 🧩 Estrutura do Projeto
+## Estrutura do Projeto
 
 finance-manager/
 ├── src/
@@ -34,7 +34,7 @@ finance-manager/
 
 ---
 
-## 🧠 Funcionalidades
+## Funcionalidades
 
 - Cadastro e autenticação de usuário
 - Registro de **transações** (receitas e despesas)
@@ -45,7 +45,7 @@ finance-manager/
 
 ---
 
-🗄️ Banco de Dados
+Banco de Dados
 
 O sistema usa **PostgreSQL**.  
 Crie o banco com o nome:
@@ -91,12 +91,12 @@ e configure o Tomcat 10.1 como servidor.
 4. Execute o servidor e acesse:
 http://localhost:8080/finance-manager/
 
-👨🏻‍💻 Autor
-Thomaz Arthur Correia de Oliveira
+Autor
+Thomaz Arthur
 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 🔗: https://www.linkedin.com/in/thomaz-arthur-a2a95b145/
 
-🧾 Licença
+Licença
 Projeto criado para fins acadêmicos.
 Você pode usar o código livremente para estudo ou extensão.
